@@ -1,0 +1,55 @@
+body {
+    font-family: 'Noticia Text', sans-serif;
+    background-color: rgb(222, 222, 222);
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: blue;
+}
+
+span {
+    color: goldenrod;
+    font-weight: 700;
+}
+
+.boxes {
+    margin: auto;
+    padding: 0%;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: aliceblue;
+}
+
+#box2 {
+    background-color: aqua;
+    position: absolute;
+    bottom: 8.4em;
+    left: 30em;
+}
+
+#box3 {
+    background-color: azure;
+}
+
+#box4 {
+    background-color: blanchedalmond;
+}
+
+
+
