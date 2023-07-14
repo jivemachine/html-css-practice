@@ -3,7 +3,9 @@ body {
     background-color: rgb(222, 222, 222);
 }
 
-h2, p, .readme-wrapper {
+h2,
+p,
+.readme-wrapper {
     text-align: center;
 }
 
@@ -38,9 +40,6 @@ span {
 
 #box2 {
     background-color: aqua;
-    position: absolute;
-    bottom: 8.4em;
-    left: 30em;
 }
 
 #box3 {
@@ -51,5 +50,58 @@ span {
     background-color: blanchedalmond;
 }
 
+.photoLol {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: purple;
+    position: absolute;
+}
 
+h1 {
+    color: darkslategray;
+}
 
+.original {
+    color: greenyellow;
+}
+
+.additional {
+    color: chocolate;
+}
+
+#show1 {
+    color: black;
+}
+
+#show2 {
+    color: cadetblue
+}
+
+#show3 {
+    color: blue;
+}
+
+#show4 {
+    color: burlywood;
+}
+
+#show5 {
+    color: beige;
+}
+
+ul {
+    color: aquamarine;
+}
+
+.star {
+    color: black;
+}
+
+#wars {
+    color: cadetblue;
+}
+
+div {
+    border: 2px solid black;
+}
